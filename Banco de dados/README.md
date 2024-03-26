@@ -1,4 +1,4 @@
-Link dos diagramas conceitual:
+Link dos diagramas:
 
 https://app.diagrams.net/#G1EYhB-YGPj3_bOhMb7BXcfZXWYgfQYBFm#%7B"pageId"%3A"w70grWobmNstFdThK53U"%7D
 

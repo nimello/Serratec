@@ -1,8 +1,12 @@
+Link dos diagramas conceitual:
+
+https://app.diagrams.net/#G1EYhB-YGPj3_bOhMb7BXcfZXWYgfQYBFm#%7B"pageId"%3A"w70grWobmNstFdThK53U"%7D
+
 Professor da disciplina: Felipe Lacerda
 
-Integrantes do grupo 4:
+Integrantes do grupo: 
 
-- Ana Yukari Futigami - https://www.linkedin.com/in/ana-yukari-futigami-pereira-94268b22b?- utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Ana Yukari Futigami - https://www.linkedin.com/in/ana-yukari-futigami-pereira-94268b22b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 - Bianco Lorencini - https://www.linkedin.com/in/bianco-lorencini-21152522b/
 
